@@ -1,4 +1,4 @@
-module github.com/lxcode/cbor-gen
+module github.com/whyrusleeping/cbor-gen
 
 go 1.18
 
